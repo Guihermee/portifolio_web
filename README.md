@@ -16,6 +16,6 @@ Consegui aprender bastante sobre todos os conceitos dentro do código.
 
 ## Feito por:
 
-### Joana Santos
+### Guilherme Cerniauskas
 
 ### Linkedin: https://www.linkedin.com/in/guilherme-cerniauskas-360048258/
